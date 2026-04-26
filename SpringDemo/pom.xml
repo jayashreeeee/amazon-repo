@@ -66,6 +66,7 @@
         <source>11</source>
         <target>11</target>
     </configuration>
+<packaging>war</packaging>
 </plugin>
         <plugin>
           <artifactId>maven-jar-plugin</artifactId>
